@@ -1,5 +1,5 @@
 # Transmission Dynamics of the COVID-19
-![covid.jpg](/Desktop/covid.jpg)
+![covid.jpg](C:/Users/asus/Desktop/covid.jpg)
 
 This notebook provides insight on COVID-19 transmission dynamics by using text mining. The notebook includes information collected from Open Research Dataset (CORD-19), after several filteration and editing. The output provides information about the following:
 * Basic reproductive number
